@@ -625,6 +625,7 @@ h2 {
 .text-center {
   text-align: center;
   margin-top: 20px;
+  font-size: 20px;
 }
 .text-center h2 {
   width: 85%;
